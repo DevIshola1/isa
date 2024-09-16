@@ -1,0 +1,644 @@
+.AiToolsSection_cardBackground__mmf0R,
+.AiToolsSection_nextGenSection__4lVMC {
+    border-radius: 20px;
+    opacity: .9;
+    background: #020202
+}
+
+.AiToolsSection_button__NFktU {
+    display: flex;
+    height: 32px;
+    padding: 10px;
+    justify-content: space-between;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 20px;
+    border: 1px solid #b4bcd0;
+    color: #f7f8f8;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28.6px
+}
+
+.AiToolsSection_title__0a75U {
+    font-size: 56px;
+    font-weight: 700
+}
+
+.AiToolsSection_subTitle__lRL8O,
+.AiToolsSection_title__0a75U {
+    color: #f7f8f8;
+    font-family: Montserrat;
+    font-style: normal;
+    line-height: normal
+}
+
+.AiToolsSection_subTitle__lRL8O {
+    font-size: 32px;
+    font-weight: 300
+}
+
+.AiToolsSection_context__7egV2 {
+    width: 305px;
+    color: #b4bcd0;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal
+}
+
+.AiToolsSection_toolTitle__Fd6td {
+    color: #f7f8f8;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: .1px
+}
+
+.AiToolsSection_toolContext__OZnxR {
+    color: #b4bcd0;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal
+}
+
+.AiToolsSection_strategiesTitle__KrkzA {
+    color: #f7f8f8;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal
+}
+
+@media only screen and (max-width:1027px) {
+    .AiToolsSection_title__0a75U {
+        font-size: 40px
+    }
+    .AiToolsSection_context__7egV2 {
+        width: 204px
+    }
+    .AiToolsSection_toolTitle__Fd6td {
+        font-size: 14px
+    }
+    .AiToolsSection_toolContext__OZnxR {
+        font-size: 12px
+    }
+    .AiToolsSection_strategiesTitle__KrkzA {
+        font-size: 16px
+    }
+}
+
+.AiToolsSection_makesUsText__ouk2I {
+    color: #f7f8f8;
+    font-family: Montserrat;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 45px
+}
+
+.AiToolsSection_uniqueText__gW_5L {
+    color: #f7f8f8;
+    font-family: Montserrat;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 60px
+}
+
+@media only screen and (max-width:768px) {
+    .AiToolsSection_parent__TlmxL {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        overflow: hidden
+    }
+    .AiToolsSection_videobg__8l9bT {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        -o-object-fit: cover;
+        object-fit: cover;
+        border-radius: 20px
+    }
+    .AiToolsSection_video-bg__z0Hmm {
+        height: auto
+    }
+}
+
+@media only screen and (max-width:430px) {
+    .AiToolsSection_videobg__8l9bT {
+        height: 100%
+    }
+}
+
+.banner_sectionCardBackground__T20kb {
+    border-radius: 16px;
+    border: 2px solid rgba(180, 188, 208, .3);
+    background: radial-gradient(161.21% 160.39% at 5.71% -44.13%, #363636 0, rgba(26, 26, 26, .27) 100%), #0b091b
+}
+
+.banner_fontFamily__bTkZK {
+    font-family: Montserrat !important
+}
+
+.productsBreakdown_sectionCardBackground__cG1SH {
+    border-radius: 50px;
+    background: radial-gradient(161.21% 160.39% at 5.71% -44.13%, #363636 0, rgba(26, 26, 26, .27) 100%)
+}
+
+.productsBreakdown_sectionCardButton__QXGAn {
+    border-radius: 20px;
+    border: 1px solid #b4bcd0;
+    color: #fff;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28.6px
+}
+
+.productsBreakdown_sectionCardContext__zM_Fo {
+    color: #e9e9e9;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal
+}
+
+.productsBreakdown_largeCardTitle__M1Vof {
+    color: #f7f8f8;
+    font-family: Montserrat;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal
+}
+
+@media only screen and (max-width:1280px) {
+    .productsBreakdown_largeCardTitle__M1Vof {
+        font-size: 40px
+    }
+}
+
+.productsBreakdown_largeCardSubTitle__ZEOFa {
+    color: #f7f8f8;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28.6px
+}
+
+.productsBreakdown_smallCardTitle__cJa7y {
+    color: #f7f8f8;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 39px;
+    letter-spacing: -1.5px
+}
+
+.productsBreakdown_purple__vRXOV {
+    background: var( --Purple-gradient, linear-gradient(270deg, #e323ff .02%, #7517f8 97.45%))
+}
+
+.productsBreakdown_blue__gML4L {
+    background: var( --Light-Bruise-gradient, linear-gradient(270deg, #4dffdf 0, #4da1ff 96.35%))
+}
+
+.productsBreakdown_ChartViewSvgPercentageValue__OD4oO {
+    color: #b4bcd0;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: .44px
+}
+
+.productsBreakdown_ChartViewSvgDynamics__60mLD {
+    color: #f7f8f8;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: .44px
+}
+
+.productsBreakdown_ChartViewSvgValue__iiYIn {
+    color: #fff;
+    font-family: Open Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px
+}
+
+.projectsBreakdown_name__6t_sq {
+    font-weight: 300
+}
+
+.projectsBreakdown_name__6t_sq,
+.projectsBreakdown_price__d_m4E {
+    color: #fff;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    line-height: normal
+}
+
+.projectsBreakdown_price__d_m4E {
+    font-weight: 500
+}
+
+.projectsBreakdown_performance__Jtc5Z {
+    font-family: Montserrat;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal
+}
+
+.toolsBreakdown_toolTitle__4_him {
+    color: #f7f8f8;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: -1.5px
+}
+
+.toolsBreakdown_toolContext__H1xCV {
+    color: #b4bcd0;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal
+}
+
+.toolsBreakdown_commingSoom__Oie35 {
+    border-radius: 20px;
+    border: 1px solid #b4bcd0;
+    color: #fff;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 28.6px
+}
+
+.toolsBreakdown_DefiTitle__5D3Bz {
+    color: #f7f8f8;
+    font-family: Montserrat;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal
+}
+
+.toolsBreakdown_DefiSubTitle__5_IvW {
+    color: #f7f8f8;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28.6px
+}
+
+.toolsBreakdown_DefiContext__S5INH {
+    color: #b4bcd0;
+    width: 218px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal
+}
+
+.toolsBreakdown_background__WEVFZ {
+    background: url(https://s3-alpha-sig.figma.com/img/2eb9/100e/4a9d87b3b7fcca44c22a3060353f02e4?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pwQMm610TVy4ypVVXhGLDE5ne96wQvVJEhXW~CK31kO8MwViQ8hdLd3mWKw4w3RzcFqEy746Ch3e7MppTfDURmPvKjnmPn0-Lhaz2zjABLlhW0LwyxwEZ-SosjGpeg7lxrT76XZheg3UE8SUnTH5pC8F-wnoLGzawtySN8Ha4Z47q9Ey9LwJETmCVRPhZ-LjzohtLlgSSYElmFMB8SPVI6VU8y~Cwiwh-t8WAjhs7I9ZXuJy5d7vF3wm4lZ7kA8NY6Kq5yJH94l0futiUm679UZbIdamOkJffk4taFk7OTT94qddYSqUjgpFo8A-XD8g3DiBT2H0leyzghXg0PkJOg__), #d3d3d3 50%/cover no-repeat
+}
+
+.homepage_fontFamily__mqMLR {
+    font-family: Montserrat
+}
+
+.homepage_introSection_title__VUmkx {
+    font-family: Montserrat;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 90px;
+    letter-spacing: -1.6px;
+    background: linear-gradient(135deg, #fff 30%, hsla(0, 0%, 100%, .38));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent
+}
+
+.homepage_container__niiku {
+    margin: 0 auto
+}
+
+.homepage_section__EvdJ4 {
+    margin-bottom: 50px;
+    opacity: 1;
+    transition: opacity .5s ease
+}
+
+.homepage_introSection_titleSubtitle__bUP0W {
+    color: #b4bcd0;
+    font-family: Montserrat;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: -1.6px;
+    background: linear-gradient(135deg, #fff 30%, hsla(0, 0%, 100%, .38));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent
+}
+
+.homepage_introSection_titleSubtitleDescription__UA14i {
+    color: #b4bcd0;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal
+}
+
+.homepage_introSection_backgroundEffect__XNdtB {
+    position: absolute;
+    bottom: -50%;
+    left: 0;
+    width: 150%;
+    height: 150%;
+    z-index: -1
+}
+
+.homepage_introSection_blocksTitle__aNH1Z {
+    color: #f7f8f8;
+    font-family: Montserrat;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal
+}
+
+.homepage_introSection_blocksTitleSubtitle__K8uZq {
+    color: #b4bcd0;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal
+}
+
+@media only screen and (max-width:600px) {
+    .homepage_introSection_title__VUmkx {
+        font-size: 48px;
+        font-weight: 500;
+        line-height: 80px
+    }
+    .homepage_introSection_titleSubtitle__bUP0W {
+        font-size: 32px
+    }
+    .homepage_introSection_titleSubtitleDescription__UA14i {
+        font-size: 14px;
+        width: 252px
+    }
+    .homepage_introSection_blocksTitle__aNH1Z {
+        font-size: 24px;
+        font-weight: 500
+    }
+}
+
+@media only screen and (max-width:375px) {
+    .homepage_introSection_title__VUmkx {
+        font-size: 40px;
+        font-weight: 500;
+        line-height: 50px
+    }
+    .homepage_introSection_titleSubtitle__bUP0W {
+        font-size: 24px
+    }
+    .homepage_introSection_titleSubtitleDescription__UA14i {
+        font-size: 12px;
+        width: 252px
+    }
+    .homepage_introSection_blocksTitle__aNH1Z {
+        font-size: 18px;
+        font-weight: 500
+    }
+}
+
+.homepage_sectionCard__4Y9rm {
+    width: 497px;
+    flex-shrink: 0
+}
+
+.homepage_sectionService_backgroundEffect__B4Fy4 {
+    position: absolute;
+    bottom: -60%;
+    left: 20%;
+    width: 100%;
+    height: 100%;
+    z-index: -1
+}
+
+.homepage_scrollBarTitle__8wF7Q {
+    color: #f7f8f8;
+    font-family: Montserrat;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35px;
+    letter-spacing: -1.5px;
+    text-decoration-line: underline;
+    padding-bottom: 15px
+}
+
+.homepage_scrollBarText__mhONB {
+    color: #b4bcd0;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20.07px
+}
+
+.homepage_sidebarScrollBar__2GqZg {
+    display: flex;
+    flex-direction: column
+}
+
+.homepage_partnerTitle__RN6tk {
+    font-family: Montserrat;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 80px;
+    letter-spacing: -1.6px;
+    background: linear-gradient(135deg, #fff 30%, hsla(0, 0%, 100%, .38));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent
+}
+
+.homepage_partnerIntroText__0pLqc {
+    color: #b4bcd0;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-bottom: 40px
+}
+
+.homepage_partnersList__n2RL1 {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    background: radial-gradient(161.21% 160.39% at 5.71% -44.13%, #363636 0, rgba(8, 11, 2, .2) 100%)
+}
+
+.homepage_partnerItem__Pf2iy {
+    padding: 20px 20px 20px 40px
+}
+
+.homepage_partnerItemText__ne9I_ {
+    color: #b4bcd0;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 20px
+}
+
+.homepage_imageSection__a39m_ {
+    flex-grow: 1;
+    padding-right: 60px;
+    padding-left: 60px
+}
+
+.homepage_footerLogoAlignment__yiCjO {
+    display: flex;
+    flex-grow: 1;
+    align-items: center;
+    gap: 10px
+}
+
+.homepage_lastSection_backgroundEffect__yPWdA {
+    position: absolute;
+    top: -100%;
+    left: 30%;
+    width: 100%;
+    height: 180%;
+    z-index: -1
+}
+
+@media only screen and (max-width:380px) {
+    .homepage_container__niiku {
+        margin-top: -15px !important
+    }
+}
+
+.homepage_overlay__cVZKx {
+    background: #111116;
+    background: linear-gradient(180deg, #111116, rgba(0, 0, 0, .513) 0, #000 86%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#111116", endColorstr="#000000", GradientType=1)
+}
+
+.homepage_overlayTest__LN7KW {
+    background: linear-gradient(0deg, #000, transparent)
+}
+
+.homepage_overlaySmallTop__z_5Ml {
+    background: linear-gradient(180deg, #000, transparent)
+}
+
+.homepage_overlayTop__gKM50 {
+    background: #111116;
+    background: linear-gradient(180deg, #111116, rgba(0, 0, 0, .513) 0, #000 86%)
+}
+
+.homepage_overlayBottom__xGSzh,
+.homepage_overlayTop__gKM50 {
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#111116", endColorstr="#000000", GradientType=1)
+}
+
+.homepage_overlayBottom__xGSzh {
+    background: #111116;
+    background: linear-gradient(180deg, rgba(17, 17, 22, .1), rgba(0, 0, 0, .313) 0, #000 86%)
+}
+
+.homepage_overlayTopAiTool__7gNsI {
+    background: #111116;
+    background: linear-gradient(1turn, rgba(0, 0, 0, .335), #000 100%, #000 0);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000", endColorstr="#000000", GradientType=1)
+}
+
+.homepage_videoContainer__FF1tv {
+    position: relative;
+    display: inline-block
+}
+
+.homepage_videoContainer__FF1tv:after {
+    content: "";
+    position: absolute;
+    bottom: -2vh;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    background: linear-gradient(180deg, transparent, #000);
+    pointer-events: none
+}
+
+.homepage_videoContainer__FF1tv video {
+    display: block;
+    width: 100%;
+    height: auto;
+    -webkit-mask-image: linear-gradient(180deg, transparent, #000);
+    mask-image: linear-gradient(180deg, transparent, #000)
+}
+
+@media only screen and (min-height:1366px) {
+    .homepage_height__Aw1V_ {
+        min-height: 80vh;
+        padding-top: 5em
+    }
+}
+
+.homepage_tag___qGig {
+    border-radius: 20px;
+    border: 1px solid #b4bcd0;
+    color: #fff;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28.6px
+}
